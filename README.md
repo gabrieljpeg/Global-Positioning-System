@@ -23,7 +23,7 @@ city = 'Miami'
 
 Crie a variável continent e dê a ela o valor 'North America'.
 country = 'USA'
-state = 'FLorida'
+state = 'Florida'
 city = 'Miami'
 continent = 'North America'
 
